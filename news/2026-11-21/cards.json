@@ -1,0 +1,33 @@
+[
+ {
+  "slug": "fed-cook-rate-hikes-needed",
+  "tag": "BREAKING",
+  "stat": "5.5+ YEARS",
+  "head": "Fed's Cook: More rate hikes needed",
+  "sub": "Cook says inflation has been above the Fed's 2% goal for more than five and a half years.",
+  "src": "Reuters, Fed Governor Lisa Cook speech, Nov. 20, 2026",
+  "style": "classic"
+ },
+ {
+  "style": "change",
+  "slug": "gas-prices-drop-thanksgiving",
+  "tag": "JUST IN",
+  "head": "Gas prices fell 18 cents in a week before Thanksgiving",
+  "fromlabel": "NOV. 12",
+  "from": "$3.91",
+  "tolabel": "NOV. 19",
+  "to": "$3.72",
+  "dir": "down",
+  "src": "AAA weekly gas price report, Nov. 19, 2026. U.S. average, regular gas"
+ },
+ {
+  "style": "bulletin",
+  "slug": "save-borrowers-court-ruling",
+  "tag": "JUST IN",
+  "date": "NOV. 20, 2026",
+  "head": "Judge lets SAVE borrowers be moved to new plans",
+  "stat": "90 DAYS",
+  "sub": "Borrowers got 90 days to switch plans, then a final notice with 30 more.",
+  "src": "Business Insider, federal court ruling on SAVE, Nov. 20, 2026"
+ }
+]
